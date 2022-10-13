@@ -11,4 +11,6 @@ opensource basic design
   * 김진탁
   * 이현우
   * 조중범
+  
+ <a href="http://aix.ssu.ac.kr/main" style="text-decoration: none">AI융합학부 학과 홈페이지</a>
  
