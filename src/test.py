@@ -8,6 +8,6 @@ while True:
     hypo = max(line)
     line.remove(hypo)
     if line[0]**2 + line[1]**2 == hypo**2:
-        print("right")
+        print("good")
     else:
-        print('wrong')
+        print('bad')
